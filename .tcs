@@ -1,0 +1,8 @@
+# For TCS internal records
+
+file_mapping = {
+    "Day 1.ipynb": "",
+    "Day 2.ipynb": "",
+    "Day 3.ipynb": "",
+    "VQE Demo.ipynb": "",
+}
