@@ -1,5 +1,4 @@
 *.ipynb_checkpoints
 *.DS_Store
-index.html
 *.sage-jupyter2
 *.sage-chat
