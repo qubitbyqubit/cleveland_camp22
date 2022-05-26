@@ -1,8 +1,6 @@
-# 2022 Cleveland In-Person Summer Camp
+# 2022 Cleveland Quantum Computing Workshop 
 
-
-
-This repository contains all of the coding materials for the 5 day Cleveland summer camp.
+This repository contains all of the coding materials for the 5 day workshop.
 
 Here are some important links for the camp:
 
